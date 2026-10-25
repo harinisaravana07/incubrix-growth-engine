@@ -1,0 +1,602 @@
+{
+  "IBX-0001": {
+    "creator_name": "Marcus Vance",
+    "channel_title": "The AI Engineering Show",
+    "segment": "Video Podcaster",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on The AI Engineering Show's repurposing pipeline",
+        "body": "Hi Marcus,\n\nLoved your deep dive on 'Deep Dive with LangChain Founder Harrison Chase on Agentic Memory'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~4 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~14 clip deficit each month. Most creator teams in the Video Podcaster space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Deep Dive with LangChain Found...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: The AI Engineering Show content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Marcus,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 142,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for The AI Engineering Show / closing the loop",
+        "body": "Hi Marcus,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=marcus\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0002": {
+    "creator_name": "Elena Rostova",
+    "channel_title": "ProductLed Architect",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "LinkedIn",
+    "backup_channel": "Email",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on ProductLed Architect's repurposing pipeline",
+        "body": "Hi Elena,\n\nLoved your deep dive on 'Deconstructing Linear's Growth Loop: Why Features Are Marketing'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~3 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~11 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Deconstructing Linear's Growth...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "LinkedIn"
+      },
+      "step_2": {
+        "subject": "Re: ProductLed Architect content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Elena,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 88,500 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "LinkedIn"
+      },
+      "step_3": {
+        "subject": "Final thought for ProductLed Architect / closing the loop",
+        "body": "Hi Elena,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=elena\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "Email"
+      }
+    }
+  },
+  "IBX-0003": {
+    "creator_name": "David Chen",
+    "channel_title": "SaaS Capital & Scaling",
+    "segment": "Expert-Led Coach & Consultant",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on SaaS Capital & Scaling's repurposing pipeline",
+        "body": "Hi David,\n\nLoved your deep dive on 'Bootstrapped from $0 to $12M ARR: The 3 Operational Bottlenecks'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~6 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~20 clip deficit each month. Most creator teams in the Expert-Led Coach & Consultant space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Bootstrapped from $0 to $12M A...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: SaaS Capital & Scaling content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi David,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 115,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for SaaS Capital & Scaling / closing the loop",
+        "body": "Hi David,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=david\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0004": {
+    "creator_name": "Sarah Sinclair",
+    "channel_title": "UX Mastery & Design Systems",
+    "segment": "Technical Educator & Solo Operator",
+    "best_channel": "YouTube Business Contact",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on UX Mastery & Design Systems's repurposing pipeline",
+        "body": "Hi Sarah,\n\nLoved your deep dive on 'Mastering Figma Variables & Tokens in 2026: Complete 50-Min Course'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~4 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~13 clip deficit each month. Most creator teams in the Technical Educator & Solo Operator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Mastering Figma Variables & To...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "YouTube Business Contact"
+      },
+      "step_2": {
+        "subject": "Re: UX Mastery & Design Systems content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Sarah,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 230,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "YouTube Business Contact"
+      },
+      "step_3": {
+        "subject": "Final thought for UX Mastery & Design Systems / closing the loop",
+        "body": "Hi Sarah,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=sarah\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0005": {
+    "creator_name": "Nathan Patel",
+    "channel_title": "Cloud Native Blueprint",
+    "segment": "Video Podcaster",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Cloud Native Blueprint's repurposing pipeline",
+        "body": "Hi Nathan,\n\nLoved your deep dive on 'Kubernetes Multi-Cluster Networking without Mesh Hell'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~5 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~18 clip deficit each month. Most creator teams in the Video Podcaster space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Kubernetes Multi-Cluster Netwo...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: Cloud Native Blueprint content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Nathan,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 94,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for Cloud Native Blueprint / closing the loop",
+        "body": "Hi Nathan,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=nathan\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0006": {
+    "creator_name": "Sean Holt",
+    "channel_title": "Autonomous Agents Lab by Sean",
+    "segment": "Technical Educator & Solo Operator",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Autonomous Agents Lab by Sean's repurposing pipeline",
+        "body": "Hi Sean,\n\nLoved your deep dive on 'Autonomous Agents Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~6 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~20 clip deficit each month. Most creator teams in the Technical Educator & Solo Operator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Autonomous Agents Operational ...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: Autonomous Agents Lab by Sean content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Sean,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 134,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for Autonomous Agents Lab by Sean / closing the loop",
+        "body": "Hi Sean,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=sean\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0007": {
+    "creator_name": "Natalie Vargas",
+    "channel_title": "Natalie Vargas | Cash Flow Modeling Systems",
+    "segment": "Expert-Led Coach & Consultant",
+    "best_channel": "LinkedIn",
+    "backup_channel": "Email",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Natalie Vargas | Cash Flow Modeling Systems's repurposing pipeline",
+        "body": "Hi Natalie,\n\nLoved your deep dive on 'Cash Flow Modeling Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~4 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~8 clip deficit each month. Most creator teams in the Expert-Led Coach & Consultant space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Cash Flow Modeling Operational...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "LinkedIn"
+      },
+      "step_2": {
+        "subject": "Re: Natalie Vargas | Cash Flow Modeling Systems content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Natalie,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 378,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "LinkedIn"
+      },
+      "step_3": {
+        "subject": "Final thought for Natalie Vargas | Cash Flow Modeling Systems / closing the loop",
+        "body": "Hi Natalie,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=natalie\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "Email"
+      }
+    }
+  },
+  "IBX-0008": {
+    "creator_name": "Grace Kapoor",
+    "channel_title": "Grace Kapoor Media",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Grace Kapoor Media's repurposing pipeline",
+        "body": "Hi Grace,\n\nLoved your deep dive on 'Angel Investing 101 Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~2 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~6 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Angel Investing 101 Operationa...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: Grace Kapoor Media content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Grace,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 242,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for Grace Kapoor Media / closing the loop",
+        "body": "Hi Grace,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=grace\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0009": {
+    "creator_name": "Lucas Sutherland",
+    "channel_title": "Lucas Sutherland | Tech Stocks Breakdown Systems",
+    "segment": "Expert-Led Coach & Consultant",
+    "best_channel": "LinkedIn",
+    "backup_channel": "Email",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Lucas Sutherland | Tech Stocks Breakdown Systems's repurposing pipeline",
+        "body": "Hi Lucas,\n\nLoved your deep dive on 'Tech Stocks Breakdown Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~4 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~12 clip deficit each month. Most creator teams in the Expert-Led Coach & Consultant space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Tech Stocks Breakdown Operatio...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "LinkedIn"
+      },
+      "step_2": {
+        "subject": "Re: Lucas Sutherland | Tech Stocks Breakdown Systems content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Lucas,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 29,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "LinkedIn"
+      },
+      "step_3": {
+        "subject": "Final thought for Lucas Sutherland | Tech Stocks Breakdown Systems / closing the loop",
+        "body": "Hi Lucas,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=lucas\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "Email"
+      }
+    }
+  },
+  "IBX-0010": {
+    "creator_name": "Adam Chen",
+    "channel_title": "Adam Chen Media",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "LinkedIn",
+    "backup_channel": "Email",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Adam Chen Media's repurposing pipeline",
+        "body": "Hi Adam,\n\nLoved your deep dive on 'SaaS Onboarding Flow Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~8 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~22 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'SaaS Onboarding Flow Operation...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "LinkedIn"
+      },
+      "step_2": {
+        "subject": "Re: Adam Chen Media content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Adam,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 150,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "LinkedIn"
+      },
+      "step_3": {
+        "subject": "Final thought for Adam Chen Media / closing the loop",
+        "body": "Hi Adam,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=adam\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "Email"
+      }
+    }
+  },
+  "IBX-0011": {
+    "creator_name": "Kavita Bauer",
+    "channel_title": "The Cash Flow Modeling Podcast with Kavita Bauer",
+    "segment": "Video Podcaster",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on The Cash Flow Modeling Podcast with Kavita Bauer's repurposing pipeline",
+        "body": "Hi Kavita,\n\nLoved your deep dive on 'Cash Flow Modeling Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~8 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~21 clip deficit each month. Most creator teams in the Video Podcaster space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Cash Flow Modeling Operational...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: The Cash Flow Modeling Podcast with Kavita Bauer content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Kavita,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 355,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for The Cash Flow Modeling Podcast with Kavita Bauer / closing the loop",
+        "body": "Hi Kavita,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=kavita\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0012": {
+    "creator_name": "Austin Sutherland",
+    "channel_title": "Second Brain in Notion Lab by Austin",
+    "segment": "Technical Educator & Solo Operator",
+    "best_channel": "YouTube",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Second Brain in Notion Lab by Austin's repurposing pipeline",
+        "body": "Hi Austin,\n\nLoved your deep dive on 'Second Brain in Notion Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~4 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~16 clip deficit each month. Most creator teams in the Technical Educator & Solo Operator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Second Brain in Notion Operati...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "YouTube"
+      },
+      "step_2": {
+        "subject": "Re: Second Brain in Notion Lab by Austin content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Austin,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 38,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "YouTube"
+      },
+      "step_3": {
+        "subject": "Final thought for Second Brain in Notion Lab by Austin / closing the loop",
+        "body": "Hi Austin,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=austin\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0013": {
+    "creator_name": "Emma Cross",
+    "channel_title": "Emma Cross Media",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Emma Cross Media's repurposing pipeline",
+        "body": "Hi Emma,\n\nLoved your deep dive on 'YouTube Algorithm Mechanics Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~5 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~13 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'YouTube Algorithm Mechanics Op...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: Emma Cross Media content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Emma,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 58,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for Emma Cross Media / closing the loop",
+        "body": "Hi Emma,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=emma\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0014": {
+    "creator_name": "Elena Lawson",
+    "channel_title": "YouTube Algorithm Mechanics Lab by Elena",
+    "segment": "Technical Educator & Solo Operator",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on YouTube Algorithm Mechanics Lab by Elena's repurposing pipeline",
+        "body": "Hi Elena,\n\nLoved your deep dive on 'YouTube Algorithm Mechanics Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~6 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~15 clip deficit each month. Most creator teams in the Technical Educator & Solo Operator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'YouTube Algorithm Mechanics Op...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: YouTube Algorithm Mechanics Lab by Elena content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Elena,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 233,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for YouTube Algorithm Mechanics Lab by Elena / closing the loop",
+        "body": "Hi Elena,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=elena\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0015": {
+    "creator_name": "James Tate",
+    "channel_title": "James Tate | Angel Investing 101 Systems",
+    "segment": "Expert-Led Coach & Consultant",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on James Tate | Angel Investing 101 Systems's repurposing pipeline",
+        "body": "Hi James,\n\nLoved your deep dive on 'Angel Investing 101 Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~4 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~11 clip deficit each month. Most creator teams in the Expert-Led Coach & Consultant space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Angel Investing 101 Operationa...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: James Tate | Angel Investing 101 Systems content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi James,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 180,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for James Tate | Angel Investing 101 Systems / closing the loop",
+        "body": "Hi James,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=james\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0016": {
+    "creator_name": "Lucas Winter",
+    "channel_title": "Lucas Winter Media",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Lucas Winter Media's repurposing pipeline",
+        "body": "Hi Lucas,\n\nLoved your deep dive on 'Figma Auto-Layout Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~6 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~24 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Figma Auto-Layout Operational ...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: Lucas Winter Media content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Lucas,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 91,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for Lucas Winter Media / closing the loop",
+        "body": "Hi Lucas,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=lucas\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0017": {
+    "creator_name": "Sarah Nakamura",
+    "channel_title": "Sarah Nakamura Media",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "YouTube",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Sarah Nakamura Media's repurposing pipeline",
+        "body": "Hi Sarah,\n\nLoved your deep dive on 'Studio Lighting Setup Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~5 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~12 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Studio Lighting Setup Operatio...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "YouTube"
+      },
+      "step_2": {
+        "subject": "Re: Sarah Nakamura Media content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Sarah,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 345,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "YouTube"
+      },
+      "step_3": {
+        "subject": "Final thought for Sarah Nakamura Media / closing the loop",
+        "body": "Hi Sarah,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=sarah\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0018": {
+    "creator_name": "Oliver Mercer",
+    "channel_title": "Retention Loops Lab by Oliver",
+    "segment": "Technical Educator & Solo Operator",
+    "best_channel": "LinkedIn",
+    "backup_channel": "Email",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Retention Loops Lab by Oliver's repurposing pipeline",
+        "body": "Hi Oliver,\n\nLoved your deep dive on 'Retention Loops Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~4 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~14 clip deficit each month. Most creator teams in the Technical Educator & Solo Operator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Retention Loops Operational Bl...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "LinkedIn"
+      },
+      "step_2": {
+        "subject": "Re: Retention Loops Lab by Oliver content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Oliver,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 177,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "LinkedIn"
+      },
+      "step_3": {
+        "subject": "Final thought for Retention Loops Lab by Oliver / closing the loop",
+        "body": "Hi Oliver,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=oliver\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "Email"
+      }
+    }
+  },
+  "IBX-0019": {
+    "creator_name": "Megan Patel",
+    "channel_title": "Megan Patel Media",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "YouTube",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Megan Patel Media's repurposing pipeline",
+        "body": "Hi Megan,\n\nLoved your deep dive on 'Real Estate Syndication Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~8 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~28 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Real Estate Syndication Operat...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "YouTube"
+      },
+      "step_2": {
+        "subject": "Re: Megan Patel Media content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Megan,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 421,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "YouTube"
+      },
+      "step_3": {
+        "subject": "Final thought for Megan Patel Media / closing the loop",
+        "body": "Hi Megan,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=megan\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0020": {
+    "creator_name": "Sarah Holt",
+    "channel_title": "Sarah Holt Media",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "YouTube",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Sarah Holt Media's repurposing pipeline",
+        "body": "Hi Sarah,\n\nLoved your deep dive on 'Angel Investing 101 Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~6 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~22 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Angel Investing 101 Operationa...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "YouTube"
+      },
+      "step_2": {
+        "subject": "Re: Sarah Holt Media content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Sarah,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 424,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "YouTube"
+      },
+      "step_3": {
+        "subject": "Final thought for Sarah Holt Media / closing the loop",
+        "body": "Hi Sarah,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=sarah\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0021": {
+    "creator_name": "Benjamin Patel",
+    "channel_title": "Benjamin Patel | Prompt Engineering Systems",
+    "segment": "Expert-Led Coach & Consultant",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Benjamin Patel | Prompt Engineering Systems's repurposing pipeline",
+        "body": "Hi Benjamin,\n\nLoved your deep dive on 'Prompt Engineering Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~2 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~8 clip deficit each month. Most creator teams in the Expert-Led Coach & Consultant space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Prompt Engineering Operational...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: Benjamin Patel | Prompt Engineering Systems content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Benjamin,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 194,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for Benjamin Patel | Prompt Engineering Systems / closing the loop",
+        "body": "Hi Benjamin,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=benjamin\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0022": {
+    "creator_name": "Sam Patel",
+    "channel_title": "The Second Brain in Notion Podcast with Sam Patel",
+    "segment": "Video Podcaster",
+    "best_channel": "LinkedIn",
+    "backup_channel": "Email",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on The Second Brain in Notion Podcast with Sam Patel's repurposing pipeline",
+        "body": "Hi Sam,\n\nLoved your deep dive on 'Second Brain in Notion Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~2 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~6 clip deficit each month. Most creator teams in the Video Podcaster space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Second Brain in Notion Operati...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "LinkedIn"
+      },
+      "step_2": {
+        "subject": "Re: The Second Brain in Notion Podcast with Sam Patel content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Sam,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 421,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "LinkedIn"
+      },
+      "step_3": {
+        "subject": "Final thought for The Second Brain in Notion Podcast with Sam Patel / closing the loop",
+        "body": "Hi Sam,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=sam\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "Email"
+      }
+    }
+  },
+  "IBX-0023": {
+    "creator_name": "Benjamin Bauer",
+    "channel_title": "Benjamin Bauer | Real Estate Syndication Systems",
+    "segment": "Expert-Led Coach & Consultant",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Benjamin Bauer | Real Estate Syndication Systems's repurposing pipeline",
+        "body": "Hi Benjamin,\n\nLoved your deep dive on 'Real Estate Syndication Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~3 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~12 clip deficit each month. Most creator teams in the Expert-Led Coach & Consultant space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Real Estate Syndication Operat...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: Benjamin Bauer | Real Estate Syndication Systems content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Benjamin,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 378,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for Benjamin Bauer | Real Estate Syndication Systems / closing the loop",
+        "body": "Hi Benjamin,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=benjamin\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0024": {
+    "creator_name": "Nathan Callahan",
+    "channel_title": "The Studio Lighting Setup Podcast with Nathan Callahan",
+    "segment": "Video Podcaster",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on The Studio Lighting Setup Podcast with Nathan Callahan's repurposing pipeline",
+        "body": "Hi Nathan,\n\nLoved your deep dive on 'Studio Lighting Setup Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~7 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~19 clip deficit each month. Most creator teams in the Video Podcaster space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Studio Lighting Setup Operatio...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: The Studio Lighting Setup Podcast with Nathan Callahan content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Nathan,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 211,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for The Studio Lighting Setup Podcast with Nathan Callahan / closing the loop",
+        "body": "Hi Nathan,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=nathan\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  },
+  "IBX-0025": {
+    "creator_name": "Priya Blackwood",
+    "channel_title": "Priya Blackwood Media",
+    "segment": "YouTube Video-First Creator",
+    "best_channel": "Email",
+    "backup_channel": "LinkedIn",
+    "sequence": {
+      "step_1": {
+        "subject": "Quick question on Priya Blackwood Media's repurposing pipeline",
+        "body": "Hi Priya,\n\nLoved your deep dive on 'Cash Flow Modeling Operational Blueprint'\u2014the breakdown was top-tier.\n\nI noticed you're publishing ~5 high-signal longform videos monthly, but your short-form and multi-platform distribution has an estimated ~15 clip deficit each month. Most creator teams in the YouTube Video-First Creator space lose 15-20 hours a week hand-stitching Notion, Descript, and Buffer.\n\nWe engineered IncuBrix to turn one longform episode into ready-to-publish vertical clips, LinkedIn threads, and SEO briefs in a single unified studio.\n\nWould you be opposed to seeing a 2-minute workflow audit showing what 4 automated cutdowns from 'Cash Flow Modeling Operational...' would look like?\n\nBest,\nGrowth Engineering Team | IncuBrix\nPS: If you're not the right person managing content ops, please let me know who to ping!",
+        "channel": "Email"
+      },
+      "step_2": {
+        "subject": "Re: Priya Blackwood Media content leverage (cut turnaround from 4 days to 4 hours)",
+        "body": "Hi Priya,\n\nFollowing up on my note from earlier this week. We ran a quick calculation on your current release cadence: with 142,000 subscribers, repurposing your top 3 moments from each episode into Shorts/Reels typically unlocks 25-35% incremental audience growth with zero additional recording time.\n\nInstead of hiring another junior editor or juggling 4 disconnected subscriptions, IncuBrix centralizes Discovery -> Creation -> Repurposing -> Scheduling under one roof.\n\nWorth a 10-minute preview on Thursday or Friday?\n\n\u2014 IncuBrix Growth Team",
+        "channel": "Email"
+      },
+      "step_3": {
+        "subject": "Final thought for Priya Blackwood Media / closing the loop",
+        "body": "Hi Priya,\n\nI know your production schedule is packed. I won't crowd your inbox further.\n\nIf you ever want to automate your repurposing backlog or test our one-click multi-format renderer, I set up an extended 30-day creator sandbox pass for your team here: https://incubrix.com/creator-pass?ref=priya\n\nKeep making incredible work,\n\u2014 IncuBrix Growth Ops",
+        "channel": "LinkedIn"
+      }
+    }
+  }
+}

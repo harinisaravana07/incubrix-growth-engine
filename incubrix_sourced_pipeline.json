@@ -1,0 +1,54 @@
+[
+  {
+    "creator_name": "Arjun Mehta (TechSprint Media)",
+    "niche": "AI Tools & Software Architecture",
+    "primary_channel": "YouTube",
+    "audience_size": "240K Subscribers",
+    "team_size": 2,
+    "fragmentation_index": 77,
+    "qualification_status": "Tier-1 High Priority",
+    "buying_trigger": "Severe Repurposing Bottleneck: Producing 4 deep dives/mo but only 4 short-form assets. Estimated 15-20 hours/mo lost switching between disconnected editing and publishing tools.",
+    "pilot_entry_point": "Repurposing & Multi-Format Velocity Sprint (Cut turnaround from 4 days to 4 hours)",
+    "personalized_discovery_hook": "Hey Arjun, noticed your deep dive on 'Building Production AI Agents with LangGraph'. You're publishing high-signal longform, but your multi-format distribution (Shorts/LinkedIn) has a ~8 asset gap each month. How many disconnected tools is your team currently stitching together between the final edit and distribution?",
+    "verified_contact": "partnerships@techsprint.io"
+  },
+  {
+    "creator_name": "Sarah Lin (B2B SaaS Growth Pod)",
+    "niche": "Product Led Growth & Startup Sales",
+    "primary_channel": "YouTube & Substack",
+    "audience_size": "85K Subscribers",
+    "team_size": 1,
+    "fragmentation_index": 84,
+    "qualification_status": "Tier-1 High Priority",
+    "buying_trigger": "Severe Repurposing Bottleneck: Producing 3 deep dives/mo but only 0 short-form assets. Estimated 15-20 hours/mo lost switching between disconnected editing and publishing tools.",
+    "pilot_entry_point": "Repurposing & Multi-Format Velocity Sprint (Cut turnaround from 4 days to 4 hours)",
+    "personalized_discovery_hook": "Hey Sarah, noticed your deep dive on 'Zero to $1M ARR in 90 Days'. You're publishing high-signal longform, but your multi-format distribution (Shorts/LinkedIn) has a ~9 asset gap each month. How many disconnected tools is your team currently stitching together between the final edit and distribution?",
+    "verified_contact": "sarah@growthpod.co"
+  },
+  {
+    "creator_name": "DevEdge Collective",
+    "niche": "Fullstack Engineering & Career Coaching",
+    "primary_channel": "YouTube",
+    "audience_size": "510K Subscribers",
+    "team_size": 4,
+    "fragmentation_index": 59,
+    "qualification_status": "Tier-2 Qualified",
+    "buying_trigger": "Multi-Channel Expansion Friction: Active on YouTube, Instagram, LinkedIn. Opportunity to centralize ideation to cross-platform scheduling into one CreatorOps cockpit.",
+    "pilot_entry_point": "Single-Platform Distribution & Analytics Alignment Pilot",
+    "personalized_discovery_hook": "Hey DevEdge, noticed your deep dive on 'System Design for Real-time Streaming'. You're publishing high-signal longform, but your multi-format distribution (Shorts/LinkedIn) has a ~10 asset gap each month. How many disconnected tools is your team currently stitching together between the final edit and distribution?",
+    "verified_contact": "team@devedge.live"
+  },
+  {
+    "creator_name": "Kavita Rao (DesignCraft)",
+    "niche": "UI/UX & Design Systems",
+    "primary_channel": "YouTube",
+    "audience_size": "130K Subscribers",
+    "team_size": 3,
+    "fragmentation_index": 24,
+    "qualification_status": "Nurture / Self-Serve",
+    "buying_trigger": "Optimized existing workflow. Lower urgency for enterprise/studio onboarding.",
+    "pilot_entry_point": "Product-Led Growth (PLG) trial via app.incubrix.com",
+    "personalized_discovery_hook": "Hey Kavita, noticed your deep dive on 'Figma 2026 Micro-Interactions'. You're publishing high-signal longform, but your multi-format distribution (Shorts/LinkedIn) has a ~0 asset gap each month. How many disconnected tools is your team currently stitching together between the final edit and distribution?",
+    "verified_contact": "kavita@designcraft.studio"
+  }
+]
